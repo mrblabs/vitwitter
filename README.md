@@ -1,4 +1,4 @@
-vitter
+vitwitter
 ======
 
 Twitter visualization
